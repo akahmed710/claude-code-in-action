@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find . -maxdepth 3 -name .cursorrules -o -name .cursor -type d -o -path */.github/copilot*)",
+      "Bash(find . -maxdepth 2 -name vitest.config.* -o -name vite.config.*)",
+      "Bash(npm audit:*)",
+      "Bash(npm test:*)",
+      "Bash(npm search:*)",
+      "Bash(npm install:*)",
+      "mcp__playwright__browser_navigate",
+      "Bash(npm run:*)",
+      "mcp__playwright__browser_wait_for",
+      "Bash(set NODE_OPTIONS=--require ./node-compat.cjs)",
+      "Bash(npx next:*)",
+      "mcp__playwright",
+      "Bash(netstat -ano)",
+      "Bash(taskkill /PID 33624 /F)",
+      "Bash(taskkill.exe:*)",
+      "Bash(cmd.exe:*)",
+      "Bash(NODE_OPTIONS='--require ./node-compat.cjs' npx next dev --turbopack)",
+      "Bash(node -e \"const ai = require\\('ai'\\); console.log\\(Object.keys\\(ai\\).filter\\(k => k.toLowerCase\\(\\).includes\\('message'\\)\\)\\)\")",
+      "Bash(node -e \"const {pruneMessages} = require\\('ai'\\); console.log\\(pruneMessages.toString\\(\\).slice\\(0, 300\\)\\)\")",
+      "Bash(grep -r \"append\\\\|sendMessage\\\\|useChat\" node_modules/@ai-sdk/react/dist/*.js)",
+      "Bash(grep -A 30 \"function useChat\" node_modules/@ai-sdk/react/dist/*.js)",
+      "Bash(grep -A 5 \"sendMessage:\" node_modules/@ai-sdk/react/dist/*.js)",
+      "Bash(grep -B2 -A 20 \"sendMessage\\\\\\(message\" node_modules/@ai-sdk/react/dist/*.js)",
+      "Bash(grep -B2 -A 10 \"sendMessage = \" node_modules/@ai-sdk/react/dist/*.js)",
+      "Bash(grep -A 15 \"chatRef.current.sendMessage\" node_modules/@ai-sdk/react/dist/*.js)",
+      "Bash(node -e \"const ai = require\\('./node_modules/ai/dist/index.js'\\); console.log\\(Object.keys\\(ai\\).filter\\(k => k.toLowerCase\\(\\).includes\\('stream'\\) || k.toLowerCase\\(\\).includes\\('data'\\)\\)\\)\")",
+      "Bash(node -e \"const ai = require\\('./node_modules/ai/dist/index.js'\\); const r = ai.streamText; console.log\\(ai.createUIMessageStreamResponse?.toString\\(\\).slice\\(0,500\\)\\)\")",
+      "Bash(node -e ':*)",
+      "Bash(node -e \"const ai = require\\('./node_modules/ai/dist/index.js'\\); console.log\\(ai.createUIMessageStream?.toString\\(\\).slice\\(0,1000\\)\\)\")",
+      "Bash(npm list:*)"
+    ]
+  }
+}

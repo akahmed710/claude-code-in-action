@@ -1,0 +1,3752 @@
+[       3ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[      45ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     112ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[     158ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_4411d9bd._.js:14107
+[     199ms] Error: ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+
+    at <unknown> (Error: ./src/lib/contexts/chat-context.tsx:76:17)
+    at Object.getCompilationErrors (file://C:\Users\akmal\OneDrive\Desktop\Anthropic Courses\Claude Code in Action\uigen\node_modules\next\dist\server\dev\hot-reloader-turbopack.js:775:59)
+    at DevBundlerService.getCompilationError (file://C:\Users\akmal\OneDrive\Desktop\Anthropic Courses\Claude Code in Action\uigen\node_modules\next\dist\server\lib\dev-bundler-service.js:39:55)
+    at DevServer.getCompilationError (file://C:\Users\akmal\OneDrive\Desktop\Anthropic Courses\Claude Code in Action\uigen\node_modules\next\dist\server\dev\next-dev-server.js:721:42)
+    at DevServer.findPageComponents (file://C:\Users\akmal\OneDrive\Desktop\Anthropic Courses\Claude Code in Action\uigen\node_modules\next\dist\server\dev\next-dev-server.js:691:43)
+    at async DevServer.renderErrorToResponseImpl (file://C:\Users\akmal\OneDrive\Desktop\Anthropic Courses\Claude Code in Action\uigen\node_modules\next\dist\server\base-server.js:1687:26)
+[     198ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2207
+[     200ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[     229ms] [LOG] {file: Object} @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_next-devtools_index_5277ebc8.js:16058
+[     263ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[     313ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[     375ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[     437ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[     499ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[     561ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[     623ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[     685ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[     747ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[     809ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[     871ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[     933ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[     995ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1057ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1118ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1180ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1242ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1304ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1366ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1428ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1490ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1552ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1614ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1676ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1738ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1800ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1861ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1924ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    1986ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2047ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2110ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2172ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2234ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2295ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2357ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2419ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2481ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2543ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2606ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2667ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2730ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2791ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2853ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2915ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    2977ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3039ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3101ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3162ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3225ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3287ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3348ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3410ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3472ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3534ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3596ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3658ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3720ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3782ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3844ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3906ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    3967ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4030ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4092ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4154ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4216ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4278ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4340ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4402ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4464ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4526ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4588ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4649ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4711ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4773ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4835ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4898ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    4959ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5021ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5083ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5146ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5207ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5269ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5332ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5394ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5455ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5518ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5579ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5641ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5703ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5765ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5827ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5889ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    5951ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6013ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6074ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6137ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6198ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6261ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6322ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6369ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6431ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6493ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6555ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6617ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6679ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6740ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6802ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6864ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6926ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    6988ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7050ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7112ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7173ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7235ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7296ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7358ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7405ms] [ERROR] ./src/lib/contexts/chat-context.tsx:76:17
+Ecmascript file had an error
+  74 | }
+  75 |
+> 76 | export function useChat() {
+     |                 ^^^^^^^
+  77 |   const context = useContext(ChatContext);
+  78 |   if (context === undefined) {
+  79 |     throw new Error("useChat must be used within a ChatProvider");
+
+the name `useChat` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_5b402162._.js:1747
+[    7466ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2495
+[    7664ms] [LOG] [Fast Refresh] done in 60ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2355
+[    7879ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[    7910ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:14537
+[    8039ms] Error: useChat must be used within a ChatProvider
+    at useChat (http://localhost:3000/_next/static/chunks/src_42215a50._.js:898:15)
+    at ChatProvider (http://localhost:3000/_next/static/chunks/src_42215a50._.js:846:74)
+    at Object.react_stack_bottom_frame (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:13072:24)
+    at renderWithHooks (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:4091:24)
+    at updateFunctionComponent (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:5523:21)
+    at beginWork (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:6111:24)
+    at runWithFiberInDEV (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:886:74)
+    at performUnitOfWork (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8298:97)
+    at workLoopSync (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8190:40)
+    at renderRootSync (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8173:13)
+    at performWorkOnRoot (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:7932:56)
+    at performWorkOnRootViaSchedulerTask (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:8882:9)
+    at MessagePort.performWorkUntilDeadline (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_5150ccfd._.js:2601:64)
+[    9805ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5949
+[    9807ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    9809ms] [LOG] {file: Object} @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_next-devtools_index_a9cb0712.js:16058
+[    9868ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    9930ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    9992ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10054ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10116ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10178ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10240ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10302ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10364ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10426ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10488ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10550ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10612ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10673ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10734ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10796ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10858ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10920ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   10981ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11044ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11105ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11167ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11229ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11290ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11352ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11414ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11476ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11538ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11600ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11662ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11724ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11786ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   11848ms] [ERROR] ./src/lib/contexts/chat-context.tsx:9:1
+Module not found: Can't resolve 'ai/react'
+   7 |   useEffect,
+   8 | } from "react";
+>  9 | import { useChat as useAIChat } from "ai/react";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import type { Message } from "ai";
+  11 | import { useFileSystem } from "./file-system-context";
+  12 | import { setHasAnonWork } from "@/lib/anon-work-tracker";
+
+Import traces:
+  Client Component Browser:
+    ./src/lib/contexts/chat-context.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Client Component Browser]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/contexts/chat-context.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Client Component SSR]
+    ./src/app/main-content.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359

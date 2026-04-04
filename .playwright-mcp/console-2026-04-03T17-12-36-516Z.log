@@ -1,0 +1,1112 @@
+[       9ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     103ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     164ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     226ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     288ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     350ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     412ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     475ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     536ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     598ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     660ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     722ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     784ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     846ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     908ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     970ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1032ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1095ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1158ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1221ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1282ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1342ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1404ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1466ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1528ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1591ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1652ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1714ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1776ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1838ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1900ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    1962ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2024ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2086ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2149ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2210ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2272ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2334ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2397ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2458ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2520ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2582ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2646ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2707ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2768ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2830ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2892ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    2954ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3016ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3078ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3140ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3202ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3264ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3326ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3388ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3450ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3512ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3574ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3636ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3698ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3761ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3822ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3884ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    3946ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4008ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4070ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4132ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4194ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4256ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4319ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4381ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4442ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4504ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4566ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4628ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4690ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4753ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4815ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4938ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    4953ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5949
+[    5016ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    5078ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    5140ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    5202ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    5264ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    5326ms] [ERROR] ./src/app/api/chat/route.ts:3:1
+Export appendResponseMessages doesn't exist in target module
+  1 | import type { FileNode } from "@/lib/file-system";
+  2 | import { VirtualFileSystem } from "@/lib/file-system";
+> 3 | import { streamText, appendResponseMessages } from "ai";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import { buildStrReplaceTool } from "@/lib/tools/str-replace";
+  5 | import { buildFileManagerTool } from "@/lib/tools/file-manager";
+  6 | import { prisma } from "@/lib/prisma";
+
+The export appendResponseMessages was not found in module [project]/node_modules/ai/dist/index.mjs [app-route] (ecmascript).
+Did you mean to import pruneMessages?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[    5388ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3003/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:14537
+[   21208ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3003/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5949
+[   21379ms] [LOG] [Fast Refresh] done in 279ms @ http://localhost:3003/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5809
+[   21750ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3003/api/chat:0
+[  284902ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3003/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5949
+[  284965ms] [LOG] [Fast Refresh] done in 108ms @ http://localhost:3003/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5809
