@@ -118,3 +118,5 @@ export function MainContent({ user, project }: MainContentProps) {
     </FileSystemProvider>
   );
 }
+
+// TEST COMMENT TO TRIGGER CLAUDE CODE REVIEW WORKFLOW IN GITHUB
