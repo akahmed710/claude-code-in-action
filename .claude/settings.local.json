@@ -30,7 +30,8 @@
       "Bash(node -e \"const ai = require\\('./node_modules/ai/dist/index.js'\\); const r = ai.streamText; console.log\\(ai.createUIMessageStreamResponse?.toString\\(\\).slice\\(0,500\\)\\)\")",
       "Bash(node -e ':*)",
       "Bash(node -e \"const ai = require\\('./node_modules/ai/dist/index.js'\\); console.log\\(ai.createUIMessageStream?.toString\\(\\).slice\\(0,1000\\)\\)\")",
-      "Bash(npm list:*)"
+      "Bash(npm list:*)",
+      "Bash(git add:*)"
     ]
   }
 }
